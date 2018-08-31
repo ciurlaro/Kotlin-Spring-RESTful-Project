@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome page</title>
+</head>
+<body>
+
+<br> Welcome! <br>
+
+<form action="/api/users">
+    Get All Users:
+    <input type="submit" value="Submit">
+</form>
+
+<form action="/api/users/">
+    Find By Id:
+    <input type="number" name="id">
+    <input type="submit" value="Submit">
+</form>
+
+<form action="/api/users" method="post">
+    Add New User:
+    <input type = "email" name="mailAddress">
+    <input type = "password" name="password">
+    <input type ="submit" value="Submit">
+</form>
+
+</body>
+</html>
