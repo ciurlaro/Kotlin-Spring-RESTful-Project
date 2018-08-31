@@ -18,7 +18,7 @@ git clone https://github.com/CesareIurlaro/Kotlin-Spring-RESTful-Project.git
 
 **2. Create Mysql database**
 ```bash
-create database kotlin_demo_app
+CREATE DATABASE db_application
 ```
 
 **3. Change mysql username and password as per your installation or create a priviledged new user**
