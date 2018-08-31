@@ -13,7 +13,7 @@ Restful CRUD API using Kotlin, Spring Boot, Mysql, JPA and Hibernate.
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/CesareIurlaro/-Kotlin-Spring-RESTful-Project.git
+git clone https://github.com/CesareIurlaro/Kotlin-Spring-RESTful-Project.git
 ```
 
 **2. Create Mysql database**
